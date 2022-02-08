@@ -4,4 +4,4 @@
 
 As you may have noticed, it is a tad bit empty, this is due to the fact that I still have yet to accomplish my awe inspiring work.
 
-### My main Github page can be found [here](https://github.com/bsu-tonynielsen/bsu-tonynielsen.github.io)
+### My main Github page can be found [here](https://github.com/bsu-tonynielsen)
